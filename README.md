@@ -31,7 +31,7 @@ This project is a front-end implementation of an Amazon-inspired landing page. I
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository-url]  # Replace with your repository URL
+    git clone [https://github.com/jawad-js/amazon-clone]  # Replace with your repository URL
     ```
 2.  **Navigate to the project directory:**
     ```bash
